@@ -30,7 +30,7 @@ Yelp Camp is the final project of [The Web Developer Bootcamp](https://www.udemy
 
 This is, for sure, the hardest project that I have already worked on. To graduate at UFRJ you must write an undergraduate thesis. I choose to work with Machine Learning and Artificial Intelligence.
 
-In the Computer Engineering course, we are taught about Supervised and Unsupervised Learning. But I wanted to talk about something different that really get me excited, so I take some time and did a little research, so I heard about Reinforcement Learning. In the first glimpse, I knew that I had found my thesis subject. This was pretty exciting, however, I had to learn a brand new topic.
+In the Computer Engineering course, we are taught about Supervised and Unsupervised Learning. But I wanted to talk about something different that really get me excited, so I take some time and did a little research, then I heard about Reinforcement Learning. In the first glimpse, I knew that I had found my thesis subject. This was pretty exciting, however, I had to learn a brand new topic.
 
 This toke time and it was difficult, but at the ending, my thesis was approved and I graduated. In this whole process, I learn a lot and I want to talk about it in more detail, so I will write some articles about Reinforcement Learning and how was my experience doing this project.
 
