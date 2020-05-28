@@ -6,6 +6,13 @@ permalink: /projects/
 
 Some of my projects and background experience. For more professional information please check my [Linkedin](linkedin.com/in/lyang-higa-cano/) page.
 
+#### (2020) [Natours](https://natours-lyang.herokuapp.com/)
+
+Natours is the final project of [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) created by Jonas Schmedtmann. Like Yelp Camp it is also a kind of social media for travelers, built-in NodeJs, Express, MongoDB (“spoiled” by the course name), and a ton of other amazing libraries, you can check the incomplete [API Documentation](https://documenter.getpostman.com/view/4237486/S1LwxnaE?version=latest) and the [Git Repository](https://github.com/LyangHiga/natours)
+. This Bootcamp was incredible to get my back-end skills up to date through a really hands-on project.
+
+---
+
 #### (2020) [Sorting Visualizer](https://lyanghiga.github.io/sorting-visualizer/)
 
 Inspired by this [video](https://www.youtube.com/watch?v=pFXYym4Wbkc) I did my own Sorting Visualizer. It was awesome to implement some algorithms that I didn’t use in a long time using React and JavaScript. For more details check the [repository](https://github.com/LyangHiga/sorting-visualizer).
@@ -14,7 +21,7 @@ Inspired by this [video](https://www.youtube.com/watch?v=pFXYym4Wbkc) I did my o
 
 #### (2020) [React Colors](https://lyanghiga.github.io/React-Colors/)
 
-React Colors is the final project of [Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/), it is a clone of websites like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers), it is built with React, Material UI and a lot of others libraries. In this [post](...) I made a review of this course and explain better this project.
+React Colors is the final project of [Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) created by Colt Steele, it is a clone of websites like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers), it is built with React, Material UI and a lot of others libraries. In this [post](...) I made a review of this course and explain better this project.
 
 After finishing I decided to make big changes in the proposed project by using Hooks, Context API, and Reducers, for State Management. You can check the [Repository](https://github.com/LyangHiga/React-Colors) for more details.
 
@@ -22,7 +29,7 @@ After finishing I decided to make big changes in the proposed project by using H
 
 #### (2019) [Yelp Camp](http://yelp-camp--vl.herokuapp.com/)
 
-Yelp Camp is the final project of [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/), it is a kind of social network for campers, built-in NodeJs, Express, MongoDB, EJS, Boostrap and a lot of other cool stuff, which I explain better in this [post](...), where I also explain why I take this Bootcamp and made a review of it. You can also check the Git Hub [Repository](https://github.com/LyangHiga/yelp-camp). What is most important here is that I learn a ton in a really small space of time and I realized that I already had the whole base to learn any of this new technology.
+Yelp Camp is the final project of [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) created by Colt Steele, it is a kind of social network for campers, built-in NodeJs, Express, MongoDB, EJS, Boostrap and a lot of other cool stuff, which I explain better in this [post](...), where I also explain why I take this Bootcamp and made a review of it. You can also check the Git Hub [Repository](https://github.com/LyangHiga/yelp-camp). What is most important here is that I learn a ton in a really small space of time and I realized that I already had the whole base to learn any of this new technology.
 
 ---
 
@@ -54,4 +61,4 @@ Research about ​​queuing theory, network optimization in graphs, QoS and QoE
 
 #### (2012-2013) [Jovens Talentos Para Ciência](http://portal.mec.gov.br/component/tags/tag/35383-jovens-talentos-para-a-ciencia)
 
-It was a brazilian program to young undergraduate studantes to begin in scientific research by [CAPES](https://www.capes.gov.br/). I was guided by professor Henrique Cukierman, we made a study of Computer and Society and the [WOSES](https://www.cos.ufrj.br/woses2006/fale.htm) worshop.
+It was a Brazilian program for young undergraduate students to begin in scientific research by [CAPES](https://www.capes.gov.br/). I was guided by professor Henrique Cukierman, we made a study of Computer and Society and the [WOSES](https://www.cos.ufrj.br/woses2006/fale.htm) workshop.
