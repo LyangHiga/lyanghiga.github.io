@@ -6,10 +6,19 @@ permalink: /projects/
 
 Some of my projects and background experience. For more professional information please check my [Linkedin](linkedin.com/in/lyang-higa-cano/) page.
 
+#### (2020) [Pathfinding Visualizer](https://lyanghiga.github.io/pathfinding-visualizer/)
+
+This project was inspired by this [video](https://www.youtube.com/watch?v=msttfIHHkak). Some years ago I implemented all of these algorithms for a class at UFRJ, after watching this video I decided to do it in a way more visual and not something only in the command line.
+
+In this way, I could see all algorithms working (it is beautiful haha), remember how they work, and have some fun with React and JS as well.
+
+For more details and instructions check the [repository](https://github.com/LyangHiga/pathfinding-visualizer).
+
+---
+
 #### (2020) [Natours](https://natours-lyang.herokuapp.com/)
 
-Natours is the final project of [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) created by Jonas Schmedtmann. Like Yelp Camp it is also a kind of social media for travelers, built-in NodeJs, Express, MongoDB (“spoiled” by the course name), and a ton of other amazing libraries, you can check the incomplete [API Documentation](https://documenter.getpostman.com/view/4237486/S1LwxnaE?version=latest) and the [Git Repository](https://github.com/LyangHiga/natours)
-. This Bootcamp was incredible to get my back-end skills up to date through a really hands-on project.
+Natours is the final project of [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) created by Jonas Schmedtmann. Like Yelp Camp it is also a kind of social media for travelers, built-in NodeJs, Express, MongoDB (“spoiled” by the course name), and a ton of other amazing libraries, you can check the incomplete [API Documentation](https://documenter.getpostman.com/view/4237486/S1LwxnaE?version=latest) and the [Git Repository](https://github.com/LyangHiga/natours). This Bootcamp was incredible to get my back-end skills up to date through a really hands-on project.
 
 ---
 
@@ -21,7 +30,7 @@ Inspired by this [video](https://www.youtube.com/watch?v=pFXYym4Wbkc) I did my o
 
 #### (2020) [React Colors](https://lyanghiga.github.io/React-Colors/)
 
-React Colors is the final project of [Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) created by Colt Steele, it is a clone of websites like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers), it is built with React, Material UI and a lot of others libraries. In this [post](...) I made a review of this course and explain better this project.
+React Colors is the final project of [Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/) created by Colt Steele, it is a clone of websites like [Flat UI Colors](https://flatuicolors.com/) and [Material UI Colors](http://materialuicolors.co/?utm_source=launchers), it is built with React, Material UI and a lot of others libraries. In this [post](...), I made a review of this course and explain better this project.
 
 After finishing I decided to make big changes in the proposed project by using Hooks, Context API, and Reducers, for State Management. You can check the [Repository](https://github.com/LyangHiga/React-Colors) for more details.
 
