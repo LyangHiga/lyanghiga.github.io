@@ -6,6 +6,12 @@ permalink: /projects/
 
 Some of my projects and background experience. For more professional information please check my [Linkedin](linkedin.com/in/lyang-higa-cano/) page.
 
+#### (Always in Progress) [Algorithms and Data Structures in TypeScript](https://github.com/LyangHiga/typescript-algorithms-data-structures)
+
+I always love to study Algorithms and Data Structures, besides that I was thinking about a good way to improve my TS skills. So I chose a good [course](https://www.coursera.org/specializations/algorithms) to refresh my mind and I took my two favorites books, [Algorithm Design](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358) and [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844). Since that, I have implemented tons of algorithms and data structures, for each category/ folder there is a MD file with all my main references for that section. I hope in the future to implement even more, add more courses, books, and references as needed. Any suggestions are welcome.
+
+---
+
 #### (2020) [Pathfinding Visualizer](https://lyanghiga.github.io/pathfinding-visualizer/)
 
 This project was inspired by this [video](https://www.youtube.com/watch?v=msttfIHHkak). Some years ago I implemented all of these algorithms for a class at UFRJ, after watching this video I decided to do it in a way more visual and not something only in the command line.
